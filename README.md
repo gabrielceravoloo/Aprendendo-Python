@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f201a1f2-e8d3-407a-a17c-b993e12fcc0d" alt="Capa do Repositorio">
+  <img src="https://github.com/user-attachments/assets/5a32dba8-b94c-489e-b79f-63004249b29d" alt="Capa do Repositorio">
 </div>
 
 ![Status](http://img.shields.io/static/v1?label=STATUS&message=ESTUDANDO&color=yellow&style=for-the-badge)
